@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome to my world of data analytics :sunglasses: :chart:
+## 1. Who am I ?
+
+You'll get from my username that there is an almost hidden pun intended: **Matthieu** (spelled in French, s'il-vous-plaît :baguette_bread:), combined to **Da Col** (in Italian this time :spaghetti:), joined by **data** (in SQL, PYTHON, EXCEL, Tableau... :desktop_computer:).
+
+Bla bla to be continued
+
 
 <!--
 **Mattdatacol/Mattdatacol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
