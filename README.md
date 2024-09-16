@@ -5,7 +5,7 @@ You'll get from my username that there is an almost hidden pun intended: **Matth
 
 Previously working in the French army as an officer, specialized in finance, budgeting and wages, I had to extract data on a no-code Business Object environment and make sens out of it using Excel in order to help my hierarchy's decision making, both for costs effectives and political strategies. I was then introduced to Excel Power Pivots models, Power BI and Clik Sense, opening wide my curiosity to more advanced technologies meant for data analytics and vizualisations : It brought me to a great data journey of self improvement and a very helpfull tuition with CareerFoundry.
 
-## 2. What am I currently learning
+## 2. What am I currently learning ?
 
 I'm starting to dig deeper into machine learning since I know its great potential. Where I'm standing now is mostly about linear regression, forecasting, ARIMAS and Prophet.
 I also start to learn about python apps (Streamlit and Taipy) that will help share some storytelling about my latest projects.
