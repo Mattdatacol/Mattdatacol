@@ -7,7 +7,8 @@ Previously working in the French army as an officer, specialized in finance, bud
 
 ## 2. What am I currently learning ?
 
-I'm starting to dig deeper into machine learning since I know its great potential. Where I'm standing now is mostly about linear regression, forecasting, ARIMAS and Prophet.
+I'm starting to dig deeper into machine learning since I know its great potential. Where I'm standing now is mostly on statsmodel and sci-kit libraries about linear regressions, clustering, forecasting, time-series ARIMAS and Prophet.
+
 I also start to learn about python apps (Streamlit and Taipy) that will help share some storytelling about my latest projects.
 
 ## 3. What am I looking to collaborate on ?
