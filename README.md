@@ -7,7 +7,7 @@ Previously working in the French army as an officer, specialized in finance, bud
 
 ## 2. What am I currently learning ?
 
-I'm starting to dig deeper into machine learning since I know its great potential. Where I'm standing now is mostly on statsmodel and sci-kit libraries about linear regressions, clustering, forecasting, time-series ARIMAS and Prophet.
+I'm starting to dig deeper into machine learning since I know its great potential. Where I'm standing now is mostly on statsmodel and sci-kit libraries about linear regressions, clustering, forecasting, time-series ARIMAS, classification models like KNN, ANN and decision trees.
 
 I also start to learn about python apps (Streamlit and Taipy) that will help share some storytelling about my latest projects.
 
@@ -17,13 +17,15 @@ Any data project in need of some insight uncovering ! I am mostly interested in 
 
 ## 4. How to reach me ?
 
-Simply by connecting on [Linkedin](https://www.linkedin.com/in/dacolmatthieu/)
+- Connecting on [Linkedin](https://www.linkedin.com/in/dacolmatthieu/)
 
-Or by booking a call with me on my [calendar](https://calendly.com/dacolmatthieu)
+- Checking my [portfolio](https://mattdatacol.be/about-me)
+
+- Booking a call with me on my [calendar](https://calendly.com/dacolmatthieu)
 
 ## 5. Fun fact :
 
-If you tell me that you like adding bacon :bacon: to your burger :hamburger: we might get along really fast ! 
+:running_man: I love practising Parkour, a great sport that should be in the olympics !
 
 <!--
 **Mattdatacol/Mattdatacol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
