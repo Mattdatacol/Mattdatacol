@@ -1,43 +1,24 @@
-# Welcome to my world of data analytics :sunglasses: :chart:
-## 1. Who am I ?
+# Welcome to my world of data analytics 😎 📊
 
-You'll get from my username that there is an almost hidden pun intended: **Matthieu** (spelled in French, s'il-vous-plaît :baguette_bread:), combined to **Da Col** (in Italian this time :spaghetti:), joined by **data** (in SQL, PYTHON, EXCEL, Tableau... :desktop_computer:).
+## 1. Who am I?
+My username contains a subtle pun: **Matthieu** (spelled in French, s'il-vous-plaît 🥖), combined with **Da Col** (in Italian this time 🍝), joined by **data** (in SQL, PYTHON, EXCEL, Tableau... 💻). 
 
-Previously working in the French army as an officer, specialized in finance, budgeting and wages, I had to extract data on a no-code Business Object environment and make sens out of it using Excel in order to help my hierarchy's decision making, both for costs effectives and political strategies. I was then introduced to Excel Power Pivots models, Power BI and Qlik Sense, opening wide my curiosity to more advanced technologies meant for data analytics and vizualisations : It brought me to a great data journey of self improvement and a very helpfull tuition with CareerFoundry.
+I previously served as an officer in the French army, specializing in finance, budgeting, and wages. I had to extract data in a no-code Business Object environment and make sense of it using Excel to aid decision-making for cost-effectiveness and political strategies. I was then introduced to Excel Power Pivot models, Power BI, and Qlik Sense, which sparked my curiosity for more advanced data analytics and visualization technologies. This led me on a great data journey of self-improvement and a very helpful tuition with CareerFoundry.
 
-## 2. What am I currently learning ?
+## 2. What am I currently learning?
+I'm delving deeper into machine learning to explore its vast potential. Currently, I'm focusing on statsmodels and scikit-learn libraries for linear regressions, clustering, forecasting, time-series ARIMAs, and classification models like KNN, ANN, and decision trees. 
 
-I'm starting to dig deeper into machine learning since I know its great potential. Where I'm standing now is mostly on statsmodel and sci-kit libraries about linear regressions, clustering, forecasting, time-series ARIMAS, classification models like KNN, ANN and decision trees.
+I'm also learning about Python apps (Streamlit and Taipy) to help share some storytelling about my latest projects.
 
-I also start to learn about python apps (Streamlit and Taipy) that will help share some storytelling about my latest projects.
+## 3. What am I looking to collaborate on?
+I'm interested in collaborating on data projects that require insightful analysis. 
+I'm mostly drawn to the fields of healthcare, business optimization, defense, and analytical accountability.
+I am particularly enthusiastic about projects involving machine learning, as they offer valuable opportunities for growth.
 
-## 3. What am I looking to collaborate on ?
-
-Any data project in need of some insight uncovering ! I am mostly interested in the fields of healthcare, business optimizaton, defense and analytical accountability. If there is some machine learning involed in the project, the better: any opportunity to grow is very valuable to me !
-
-## 4. How to reach me ?
-
-- Connecting on [Linkedin](https://www.linkedin.com/in/dacolmatthieu/)
-
+## 4. How to reach me?
+- Connecting on [LinkedIn](https://www.linkedin.com/in/dacolmatthieu/)
 - Checking my [portfolio](https://mattdatacol.be/about-me)
-
 - Booking a call with me on my [calendar](https://calendly.com/dacolmatthieu)
 
-## 5. Fun fact :
-
-:running_man: I love practising Parkour, a great sport that should be in the olympics !
-
-<!--
-**Mattdatacol/Mattdatacol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 5. Fun fact 🏃‍♂️
+I love practicing Parkour, a great sport that should be in the Olympics!
